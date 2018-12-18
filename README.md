@@ -1,2 +1,2 @@
-# scripts_acl
-Repositório destinado a armazenamento de scripts e funções utilizadas na ferramenta ACL
+# ACL Scripts
+Repositório destinado ao compartilhamento de scripts e funções utilizadas na ferramenta ACL Analytics.
